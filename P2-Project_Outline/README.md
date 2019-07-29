@@ -20,6 +20,8 @@ For now, I plan to create a searchable web application that focuses on available
 
 4.)	Display Reviews:  Reviews of an existing agency will be visible to logged in users when the user selects an agency.  
 
+5.)  PDF Scraping 
+
 ### Technologies
 •	Java
 •	Spring Boot
@@ -32,4 +34,4 @@ For now, I plan to create a searchable web application that focuses on available
 I will need to learn more about PDF Scrapers and if it is applicable to the information I want to extract from the STL Resource Guide.  I will also need to learn more about Bootstrap and how to add review functionality.  Overall, I want to better understand all the technologies listed above and how they interact with one another.
 
 Project Tracker:
-https://trello.com/b/77AYgoh2/stl-resource-guide 
+https://trello.com/b/77AYgoh2/stl-resource-guide  *Set to public*
